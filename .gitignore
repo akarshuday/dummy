@@ -1,4 +1,7 @@
-node_modules/
-dist/
-.DS_Store
-*.log
+venv/
+django_projects/venv/
+*.sqlite3
+db.sqlite3
+__pycache__/
+*.pyc
+.env
